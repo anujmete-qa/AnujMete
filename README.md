@@ -1,17 +1,10 @@
 # AnujMete
 About Me
 
-I’m a detail-oriented QA enthusiast with a background in Civil Engineering and a strong pivot into the field of Software Testing. My career path reflects adaptability, structure, and a hands-on understanding of real-world project delivery.
+Software Quality Assurance professional with hands-on experience in manual testing of web applications and growing expertise in automation testing using Selenium WebDriver. Currently working as a Quality Assurance Specialist in the banking and financial services domain, contributing to the validation and quality of critical business applications.
 
-After gaining 3+ years of practical experience in managing civil site operations, I transitioned into software testing with the same focus on precision, quality, and planning. I’ve completed professional training in Manual Testing and am currently pursuing Automation Testing using Selenium and API Testing with Postman.
+Experienced in functional testing, regression testing, test case design, defect tracking, and API testing. Skilled in Selenium WebDriver, Java, SQL, Postman, and Jira, with a strong understanding of SDLC, STLC, and Agile methodologies. 
 
-In my recent manual testing project on OpenCart (an open-source e-commerce application), I independently crafted:
-- 📋 A comprehensive Test Plan
-- ✅ Over 500 test cases across 30+ functional modules
-- 🐞 Logged 20+ bugs with detailed documentation (severity, priority, reproduction steps) in **Jira**
-- 🔗 Developed a full Requirement Traceability Matrix (RTM)
-- 📤 Executed and reported test cycles using **Zephyr**, simulating Agile sprints
+Previously worked on an e-commerce testing project, where I designed and executed test cases across multiple modules including authentication, product catalog, shopping cart, and checkout workflows, while identifying and tracking defects using Jira. 
 
-I believe in clear documentation, test coverage visibility, and traceability-first testing — traits that align with enterprise QA best practices.
-
-Currently, I am refining my automation skills with Java, Selenium, TestNG, and exploring RESTful APIs through Postman — building toward becoming a full-stack SDET.
+Passionate about improving software quality through structured testing practices and currently focused on strengthening automation and API testing skills to support scalable and reliable software delivery.
